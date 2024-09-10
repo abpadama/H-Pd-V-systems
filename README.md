@@ -17,7 +17,7 @@ This study employs density functional theory-based calculations to investigate t
 
 You can download the data used in this study by cloning the git repository:
    ```sh
-   git clone {LINK TO REPO}
+   git clone https://github.com/abpadama/H-Pd-V-systems.git
    ```
 
 [//]: # (To install the required packages, use)
