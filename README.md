@@ -53,15 +53,15 @@ You can download the data used in this study by cloning the git repository:
 >
 > **configuration**: surface configuration (the integers denote the number of Pd atoms per atomic layer, in which, the first integer corresponds to the topmost layer)
 >
-> **ΔE_Pd/V (eV)**: relative total energies of pristine Pd/V systems
+> **$ΔE_{Pd/V}$ (eV)**: relative total energies of pristine Pd/V systems
 >
-> **ΔE_0.25HPd/V (eV)**: relative total energies of 0.25H-Pd/V systems
+> **$ΔE_{0.25HPd/V}$ (eV)**: relative total energies of 0.25H-Pd/V systems
 >
-> **ΔE_0.5HPd/V (eV)**: relative total energies of 0.5H-Pd/V systems
+> **$ΔE_{0.5HPd/V}$ (eV)**: relative total energies of 0.5H-Pd/V systems
 >
-> **ΔE_0.75HPd/V (eV)**: relative total energies of 0.75H-Pd/V systems
+> **$ΔE_{0.75HPd/V}$ (eV)**: relative total energies of 0.75H-Pd/V systems
 >
-> **ΔE_1.0HPd/V (eV)**: relative total energies of 1.0H-Pd/V systems
+> **$ΔE_{1.0HPd/V}$ (eV)**: relative total energies of 1.0H-Pd/V systems
 
 
 
